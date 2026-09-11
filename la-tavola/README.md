@@ -3,8 +3,6 @@
 Static, SEO/SEM-ready website for **La Tavola Italiana Limited**, an Italian
 specialty wine & food retailer/wholesaler on Galu Beach Road, Diani, Kenya.
 
-No build step, no framework — plain HTML/CSS/JS, ready to push straight to
-GitHub Pages, Netlify, or any static host.
 
 ## Structure
 
@@ -18,7 +16,7 @@ GitHub Pages, Netlify, or any static host.
 └── netlify.toml            # deploy config + cache headers (Netlify only)
 ```
 
-## What's already in place
+## What's in place
 
 - **Ordering:** every product "Order" button and the floating button deep-link
   into WhatsApp (`wa.me/254794433309`) with a pre-filled message. Two more
@@ -39,7 +37,7 @@ GitHub Pages, Netlify, or any static host.
 - **Accessibility:** skip link, visible focus states, `prefers-reduced-motion`
   support, alt-free icon set built from inline SVG (decorative, `aria-hidden`).
 
-## Before you go live — replace these placeholders
+## Before going live Ineed to replace these placeholders
 
 1. **Photography.** The site currently uses illustrated category icons instead
    of product photography. Swap in real photos of the shop, the shelves and
