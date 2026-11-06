@@ -47,7 +47,7 @@ specialty wine & food retailer/wholesaler on Galu Beach Road, Diani, Kenya.
 2. **Map pin.** The embedded map and the `geo` coordinates in `index.html`
    use an approximate Galu Beach Road location (`-4.3480, 39.5780`). Replace
    with your exact pin from Google Maps (right-click the pin → coordinates).
-3. **Opening hours.** Currently listed as Mon–Sat 8am–7pm, Sun 9am–4pm —
+3. **Opening hours.** Currently listed as 24 hours, 7 days a week—
    confirm and edit in `index.html` (search for "Opening hours" and the
    `openingHoursSpecification` block near the top of the file).
 4. **Reviews.** The six testimonials are illustrative placeholders, not real
