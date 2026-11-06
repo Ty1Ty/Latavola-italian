@@ -37,7 +37,7 @@ specialty wine & food retailer/wholesaler on Galu Beach Road, Diani, Kenya.
 - **Accessibility:** skip link, visible focus states, `prefers-reduced-motion`
   support, alt-free icon set built from inline SVG (decorative, `aria-hidden`).
 
-## Before going live Ineed to replace these placeholders
+## Before going live, replacements need to be made on these placeholders
 
 1. **Photography.** The site currently uses illustrated category icons instead
    of product photography. Swap in real photos of the shop, the shelves and
