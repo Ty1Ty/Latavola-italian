@@ -50,20 +50,15 @@ specialty wine & food retailer/wholesaler on Galu Beach Road, Diani, Kenya.
 3. **Opening hours.** Currently listed as Mon–Sat 8am–7pm, Sun 9am–4pm —
    confirm and edit in `index.html` (search for "Opening hours" and the
    `openingHoursSpecification` block near the top of the file).
-4. **Full price list PDF.** `assets/documents/la-tavola-price-list.pdf` is
-   linked from the hero button and the note above the shop section. Replace
-   this file (keep the same filename, or update the link) whenever pricing
-   changes — the on-site product cards are a curated highlight selection,
-   not the full ~300-SKU catalogue.
-5. **Reviews.** The six testimonials are illustrative placeholders, not real
+4. **Reviews.** The six testimonials are illustrative placeholders, not real
    customer quotes. Replace with genuine reviews (and update the `4.9`
    average / review count) once you have them — for real, crawlable review
    markup, consider embedding actual Google Business Profile or TripAdvisor
    reviews instead.
-6. **og-cover.jpg.** `index.html` references
+5. **og-cover.jpg.** `index.html` references
    `assets/images/og-cover.jpg` for social-media link previews (1200×630px
    recommended) — add that file once you have a hero photo.
-7. **Domain.** All canonical/OG URLs currently point at
+6. **Domain.** All canonical/OG URLs currently point at
    `https://latavola-italian.netlify.app/`. Once `latavolaitalian.com` (or
    whichever domain you buy) is live, find-and-replace that placeholder
    string across `index.html`, `sitemap.xml` and `robots.txt`.
